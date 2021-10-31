@@ -34,5 +34,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Open Source CSS Framework for React JavaScript",
+  "main": "index.js",
+  "author": "micjef <michaeljeffrysetiawan@gmail.com>",
+  "license": "MIT"
 }
